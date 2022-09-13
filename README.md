@@ -32,5 +32,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
- 
 </div>
+
+<h1>
+  hey there
+  <img src="https://media2.giphy.com/media/DCBuTtOtzhrGK5sdNv/giphy.gif?cid=ecf05e47116c4b731536f6d70239c14ddbbb028d3cbba3dc&rid=giphy.gif&ct=ts" width="40px"/>
+</h1>
