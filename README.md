@@ -34,7 +34,11 @@ Here are some ideas to get you started:
   
 </div>
 
-<h1>
-  hey there
-  <img src="https://media2.giphy.com/media/DCBuTtOtzhrGK5sdNv/giphy.gif?cid=ecf05e47116c4b731536f6d70239c14ddbbb028d3cbba3dc&rid=giphy.gif&ct=ts" width="40px"/>
+<h1 align='center'>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/DCBuTtOtzhrGK5sdNv/giphy.gif?cid=ecf05e47116c4b731536f6d70239c14ddbbb028d3cbba3dc&rid=giphy.gif&ct=ts" width="600" height="300"/>
+</div>
