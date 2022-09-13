@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-  <img src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844448011104303448065/" width="600" height="300"/>
+  <img src="https://lh3.googleusercontent.com/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q=w600" width="600" height="300"/>
 </div>
