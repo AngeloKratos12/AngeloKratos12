@@ -18,3 +18,15 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif?cid=ecf05e472ulofkof45b1yky56w945bdusou3cm1ep868hgs9&rid=giphy.gif&ct=s" width="400"/>
 </div>
+
+<div id="badges">
+  <a href="https://www.facebook.com/angelo.kratos.1L">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
